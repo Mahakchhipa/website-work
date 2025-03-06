@@ -1,0 +1,37 @@
+/* testimonialcards */
+.XLdiv,
+.XLdiv1,
+.largediv,
+.smallcoldiv {
+  display: none;
+}
+/* @media (max-width: 450px) {
+  .smallcoldiv1 {
+    display: flex;
+    margin-bottom: 10px;
+  }
+} */
+@media screen and (max-width: 1023px) {
+  .smallcoldiv {
+    display: flex;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1280px) {
+  .largediv {
+    display: block;
+  }
+}
+@media (min-width: 1281px) and (max-width: 1450px) {
+  .XLdiv1 {
+    display: block;
+  }
+}
+
+/* Media query to show second div on viewport width greater than 1100px */
+@media (min-width: 1451px) {
+  .XLdiv {
+    display: block;
+  }
+}

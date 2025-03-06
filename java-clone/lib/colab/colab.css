@@ -1,0 +1,28 @@
+@media (min-width: 1024px) {
+    .cardPara {
+      visibility: visible;
+    }
+  }
+  
+  @media (max-width: 1023px) {
+    .cardPara {
+      visibility: hidden;
+    }
+  }
+  @media (min-width: 1024px) {
+    .cardPara {
+      display: block;
+    }
+  }
+  
+  @media (max-width: 1023px) {
+    .cardPara {
+      display: none; /* Hide the paragraph content and remove its space */
+    }
+  }
+  
+  @media (max-width: 1000px) {
+    .singleCard {
+      margin: auto;
+    }
+  }

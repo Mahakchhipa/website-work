@@ -1,0 +1,21 @@
+@media (max-width: 485px) {
+    .awardcards {
+      display: grid;
+      grid-template-columns: 1fr; /* Single column layout */
+    }
+  }
+  
+  @media (min-width: 486px) and (max-width: 1023px) {
+    .awardcards {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); /* Two columns layout */
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .awardcards {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr); /* Five columns layout */
+    }
+  }
+  

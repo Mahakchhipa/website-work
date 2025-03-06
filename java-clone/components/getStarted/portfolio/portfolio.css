@@ -1,0 +1,15 @@
+@media(max-width: 400px ){
+    #heightdiv{
+          height: 600px;
+    }
+}
+@media (min-width: 500px)and (max-width: 600px){
+    #heightdiv{
+        height: 450px;
+    }
+}
+@media (min-width: 600px)and (max-width: 1023px){
+    #heightdiv{
+        height: 370px;
+    }
+}

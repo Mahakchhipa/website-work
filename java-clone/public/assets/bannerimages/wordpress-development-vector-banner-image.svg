@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 5.754475703324808 1920 744.2455242966752" style="max-height: 500px" width="1920" height="744.2455242966752">
+<mask height="750" width="1920" y="0" x="0" maskUnits="userSpaceOnUse" style="mask-type:alpha" id="mask0_2299_473">
+<rect fill="#D9D9D9" height="750" width="1920"/>
+</mask>
+<g mask="url(#mask0_2299_473)">
+</g>
+<mask height="750" width="1920" y="0" x="0" maskUnits="userSpaceOnUse" style="mask-type:alpha" id="mask1_2299_473">
+<rect fill="#D9D9D9" height="750" width="1920"/>
+</mask>
+<g mask="url(#mask1_2299_473)">
+<rect fill-opacity="0.81" fill="#FFC629" height="746" width="1920" y="4"/>
+<path fill="#9EB9FF" d="M158 752.5C158 721.994 150.477 691.96 136.096 665.056C121.716 638.152 100.923 615.21 75.5583 598.262C50.1938 581.314 21.041 570.883 -9.31776 567.893C-39.6765 564.903 -70.3043 569.446 -98.4878 581.12C-126.671 592.794 -151.541 611.239 -170.893 634.82C-190.246 658.401 -203.484 686.391 -209.436 716.311C-215.387 746.23 -213.868 777.156 -205.012 806.348C-196.157 835.54 -120.074 896.429 -98.5034 918L-27.5 752.5H158Z"/>
+</g>
+</svg>

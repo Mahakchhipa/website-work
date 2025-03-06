@@ -1,0 +1,61 @@
+.progress-list {
+    list-style: none;
+    padding-bottom: 20px;
+    /* padding-top: 22px; */
+  }
+  
+  .progress-list li {
+    position: relative;
+  
+    padding-left: 30px; /* Adjust this value to control the distance between the circle and the text */
+    /* Adjust this value to control the vertical spacing between items */
+  }
+  
+  .progress-item:not(:last-child):before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 5px;
+    height: 100%;
+    width: 0; /* Width is set to 0, since we're using border for the line */
+    border-left: 2px dashed #FF8800; /* Adjust the thickness and color as needed */
+}
+
+  
+  .progress-list li:after {
+    content: "";
+    position: absolute;
+    left: -10px; /* Adjust this value to control the horizontal position of the circle */
+    top: 13px;
+    width: 20px; /* Adjust this value to control the diameter of the circle */
+    height: 20px; /* Adjust this value to control the diameter of the circle */
+    border-radius: 50%;
+    background-color: #FF9F73; /* Change this to your desired circle color */
+    transform: translateY(-50%);
+  }
+  
+  .progress-list li:last-child:after {
+    display: visible; /* Hide circle for the last item */
+  }
+  
+  .progress-list h4 {
+    margin-top: 0;
+  }
+  .progress-content{
+    color: white;
+  }
+
+  input::placeholder {
+    color: #9F9F9F; /* Change this to your desired color */
+  }
+  /* Style the select element */
+select {
+  color: #555252; /* Text color */
+  font-size: 16px; /* Font size */
+}
+
+/* Style the placeholder option */
+select option:first-child {
+  color: #9F9F9F; /* Placeholder color */
+}
+

@@ -1,0 +1,179 @@
+.fancy {
+  --offset: 2px;
+  background: rgb(79, 79, 80);
+  border-radius: 6px;
+  position: relative;
+  /* height: 75px;
+    width: 400px; */
+  max-width: 100%;
+  overflow: hidden;
+}
+
+/* Conic gradient */
+.fancy::before {
+  content: "";
+  background: conic-gradient(
+    rgb(247, 246, 246) 60deg,
+    rgb(13, 61, 219),
+    rgb(13, 61, 219)
+  );
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  aspect-ratio: 1;
+  width: 100%;
+  animation: rotate 3s linear infinite;
+}
+
+/* Overlay */
+.fancy::after {
+  content: "";
+  background: inherit;
+  border-radius: inherit;
+  position: absolute;
+  inset: var(--offset);
+  height: calc(100% - 2 * var(--offset));
+  width: calc(100% - 2 * var(--offset));
+}
+
+.fancy a {
+  background: transparent;
+  color: white;
+  font-size: 1.2rem;
+  position: relative;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  padding: 1.5rem;
+  text-decoration: none;
+}
+
+.fancy button {
+  background: transparent;
+  border: none;
+  padding: 0; /* Adjust padding if necessary */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  z-index: 1; /* Ensure button content is above pseudo-elements */
+}
+@keyframes rotate {
+  from {
+    transform: translate(-50%, -50%) scale(1.4) rotate(0turn);
+  }
+
+  to {
+    transform: translate(-50%, -50%) scale(1.4) rotate(1turn);
+  }
+}
+
+  
+
+  div a p{
+    color: white;
+  }
+
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    z-index: 2;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: calc(100% - 10px);
+    /* left:50%; */
+    margin-top: 10%;
+    background-color: #131313CC;
+    backdrop-filter: blur(15px);
+    color: white;
+    max-width: auto;
+    height: auto;
+    overflow-x: auto;
+    overflow-y: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: grid;
+    color: white;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: grid;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: flex;
+  }
+  /* for header */
+
+.headerLarge,
+.headerSmall {
+  display: none;
+}
+@media (min-width: 1280px) {
+  .headerLarge {
+    display: flex;
+  }
+}
+@media (max-width: 1279px) {
+  .headerSmall {
+    display: flex;
+  }
+}
+.custom-scrollbar {
+  /* Allow scrolling */
+  overflow-y: auto; /* Enable vertical scrolling */
+  overflow-x: auto; /* Enable horizontal scrolling */
+}
+
+/* WebKit Browsers */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 2px; /* Width of vertical scrollbar */
+  height: 2px; /* Height of horizontal scrollbar */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #aaa; /* Color of the scrollbar thumb */
+  border-radius: 10px; /* Rounded corners for the scrollbar thumb */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #888; /* Color on hover */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f0f0f0; /* Background of the scrollbar track */
+}
+
+/* Firefox */
+.custom-scrollbar {
+  scrollbar-width: thin; /* Makes scrollbar thin in Firefox */
+  scrollbar-color: #aaa #f0f0f0; /* Thumb color and track color */
+}
+
+/* Hide the scrollbar while still allowing scrolling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Hide scrollbar in WebKit-based browsers */
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none; /* Hide scrollbar in IE and Edge */
+  scrollbar-width: none; /* Hide scrollbar in Firefox */
+}

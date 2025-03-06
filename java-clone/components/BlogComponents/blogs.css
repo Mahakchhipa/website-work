@@ -1,0 +1,241 @@
+.blog-dynamic-content{
+  text-align: left !important;
+}
+
+.blog-dynamic-content h1 {
+  font-size: 3rem;
+  line-height: 60px;
+  font-weight: bold;
+  line-height: 150%;
+
+}
+
+.blog-dynamic-content h2 {
+  font-size: 24px;
+  font-weight: 700;
+  font-family: sans-serif;
+  line-height: 150%;
+
+}
+.blog-dynamic-content h3{
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 150%;
+
+}
+.blog-dynamic-content h4{
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 130%;
+}
+.blog-dynamic-content img .picture1 {
+  width: 680px;
+  height: 450px;
+
+}
+.blog-dynamic-content img .picture2 {
+  width: 700px;
+  height: 400px;
+}
+.blog-dynamic-content p {
+  font-size: 1rem;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: sans-serif;
+
+}
+
+.red-color {
+  color: #ff0000;
+}
+
+/* components/BlogComponents/blogs.module.css */
+.blog-dynamic-content ol {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 150%;
+
+
+}
+
+.blog-dynamic-content ol li p span {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 150%;
+
+  
+}
+/* .blog-dynamic-content table{
+  margin:2rem 0;
+} */
+
+.blog-dynamic-content table tr td {
+   border: 2px solid #bab9b9;
+  padding: 15px 15px;
+  line-height: 150%;
+  /* margin:2rem 0; */
+
+}
+.blog-dynamic-content td p strong {
+  font-size: 20px;
+  line-height: 150%;
+}
+.blog-dynamic-content td  strong{
+  font-size: 20px;
+  line-height: 150%;
+}
+.blog-dynamic-content td {
+  font-size: 20px;
+  line-height: 150%;
+}
+
+.blog-dynamic-content a span:hover {
+  color: blue;
+  /* text-decoration: underline; */
+}
+
+
+.blog-dynamic-content p span strong {
+  font-size: 20px;
+
+}
+.blog-dynamic-content li a:hover {
+  color: #007BFF;
+  /* text-decoration: underline; */
+}
+.blog-dynamic-content .maindiv {
+  display: grid;
+  grid-template-columns: 1fr 2fr; /* Two columns with equal width */
+}
+
+.blog-dynamic-content .tablecontent{
+  overflow-x: auto;
+  /* width: 300px !important; */
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  .blog-dynamic-content h1 {
+    font-size: 2rem;
+    line-height: 50px;
+    font-weight: bold;
+    line-height: 150%;
+
+  }
+
+  .blog-dynamic-content h2 {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 150%;
+
+  }
+  .blog-dynamic-content h3{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 130%;
+  }
+  .blog-dynamic-content h4{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 110%;
+  }
+  img .picture1 {
+    width: 620px;
+    height: 400px;
+  }
+  img .picture2 {
+    width: 620px;
+    height: 400px;
+  }
+  .red-color {
+    color: #ff0000;
+  }
+
+  table tr td {
+     border: 2px solid #000000;
+     padding: 20px 20px;
+  }
+  .maindiv {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two columns with equal width */
+  }
+  li a:hover {
+    color: #007BFF;
+    /* text-decoration: underline; */
+  }
+  .blog-dynamic-content{
+    width: 60vw;
+  }
+}
+@media (min-width: 280px) and (max-width: 768px) {
+
+  .blog-dynamic-content h1 {
+    font-size: 2rem;
+    /* line-height: 50px; */
+    line-height: 150%;
+
+    font-weight: bold;
+  }
+
+  .blog-dynamic-content h2 {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 10px;
+  }
+
+  .blog-dynamic-content h3  {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 150%;
+  }
+  .blog-dynamic-content h4  {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 150%;
+  }
+  .red-color {
+    color: #ff0000;
+  }
+
+  .blog-dynamic-content .tablecontent{
+    overflow-x: auto;
+    /* width: 300px !important; */
+  }
+
+  img .picture1 {
+    width: 280px;
+    height: 200px;
+  }
+  img .picture1 {
+    width: 280px;
+    height: 200px;
+  }
+  .blog-dynamic-content table tr td {
+    border: 2px solid #000000;
+     padding: 10px 10px;
+  }
+  
+  .maindiv {
+    display: grid;
+    grid-template-columns: 1fr; /* Two columns with equal width */
+  }
+  li a:hover {
+    color: #007BFF;
+    text-decoration: underline;
+  }
+}
+ul li .points{
+  list-style-type: disc; /* Use 'disc' for bullet points */
+  padding-left: 20px; 
+}
+.blog-dynamic-content a {
+  color: #007BFF;
+  /* padding: 0 2px; */
+
+}
+.blog-dynamic-content img{
+  margin: 1rem 0;
+}
+/* .blog-dynamic-content h2{
+  font-size: 54px;
+  font-weight: 700;
+} */

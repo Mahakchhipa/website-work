@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Disallow: /services/digital-marketing-company
+Disallow: /case-study
+Disallow: /potfolio
+Sitemap: https://www.techanicinfotech.com/sitemap.xml

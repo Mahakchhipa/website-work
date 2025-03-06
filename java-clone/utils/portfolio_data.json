@@ -1,0 +1,1155 @@
+{
+  "portfolio": [
+    {
+      "key": "food_delivery",
+      "title": "PIKIT Food Delivery App",
+      "icon": "/assets/portfolioImages/pikit-icon.webp",
+      "gradient": "166.11deg, #84B54D -9.55%, #F6B973 104.95%",
+      "description": "Pikit is a user-friendly food delivery app designed to connect customers with a wide variety of local restaurants. It offers an extensive range of cuisines, allowing users to browse menus, customize orders, and make secure payments easily. Pikit features real-time order tracking, personalized recommendations, and exclusive deals to enhance the dining experience. With a focus on convenience and reliability, Pikit ensures that meals are delivered hot and fresh to your doorstep. The app also includes user reviews and ratings to help customers make informed choices, making it the ultimate solution for hassle-free food delivery.",
+
+      "image": "/assets/portfolioImages/pikit-image.webp",
+      "largeImage": "/assets/portfolioImages/pikit-image.webp",
+
+      "playstoreLink": "https://play.google.com/store/apps/details?id=in.pikit.app&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/in/app/pikit-food-grocery-delivery/id1536007416",
+      "webLink": "https://apps.apple.com/in/app/pikit-food-grocery-delivery/id1536007416"
+    },
+    {
+      "key": "food_delivery",
+      "title": "Msosi drop Food Delivery ",
+
+      "description": "The MSOSI drop food delivery app is designed to streamline the food ordering and delivery process. It allows users to browse menus from a wide range of local restaurants, place orders, and track their deliveries in real-time. The app emphasizes user-friendly navigation and secure payment options. With MSOSI drop, restaurants can efficiently manage orders and deliveries, enhancing customer satisfaction and operational efficiency. The app also offers features like promotional deals and personalized recommendations based on user preferences. By integrating advanced technology and a seamless interface, MSOSI drop aims to provide a convenient and reliable food delivery experience.",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "icon": "/assets/portfolioImages/msosi-drop-icon.webp",
+      "largeImage": "/assets/portfolioImages/msosi-drop-image.webp",
+      "playstoreLink": " https://play.google.com/store/apps/details?id=tz.co.dukaapp.food&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/am/app/msosidrop-food-delivery/id1669215594",
+      "webLink": "https://msosidrop.co.tz/"
+    },
+    {
+      "key": "food_delivery",
+      "title": "Glovo Food Delivery",
+      "description": "Glovo is a well-known food delivery service that is available in many nations and offers a flexible ordering experience for groceries, meals, and other necessities. Users may rapidly place orders, browse among a variety of nearby restaurants and shops, and have their things delivered. Glovo is renowned for its numerous delivery choices, real-time tracking, and user-friendly interface. To improve the user experience, the app also includes promotions and tailored recommendations. Glovo is a great option for clients looking for effective and flexible delivery services because its couriers, known as 'Glovers,' guarantee prompt and dependable delivery.",
+      "icon": "/assets/portfolioImages/glovo-icon.webp",
+      "largeImage": "/assets/portfolioImages/glovo-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.glovo&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/glovo-food-delivery-and-more/id951812684",
+      "webLink": "https://glovoapp.com/pl/pl/?utm_source=google&utm_medium=cpc&utm_campaign=google_brandprotection_PL_Search_ImpS_All_ImpressionShare_BrandProtection_AllUsers_Exact_BrandingAlwaysOn_DigitalBudget_0_0_19012021&utm_campaignid=17487314814&utm_adgroupid=143363388368&utm_term=glovo%20poland&utm_matchtype=e&utm_device=c&gad_source=1&gclid=Cj0KCQjwxeyxBhC7ARIsAC7dS38C8Mqf9VMrz3RDYY8fGV8akB0VZr_6xtJP0Guel5LpCG_NNHA8iYMaAoFhEALw_wcB"
+    },
+    {
+      "key": "food_delivery",
+      "title": "WellServed Meal Delivery",
+      "icon": "/assets/portfolioImages/well-served-icon.webp",
+      "gradient": "180deg, #F46C8B 0%, #FBBE79 100%",
+      "description": "A flawless user experience and excellent service are the main goals of the meal delivery app WellServed. It provides consumers with access to a carefully chosen range of neighborhood eateries that cater to a wide range of palates. The app offers secure payment methods, real-time order tracking, and an easy-to-use layout. With features like loyalty awards, tailored recommendations, and exclusive discounts, WellServed places a strong emphasis on client pleasure. The order management feature on the app is quite effective and helps restaurants run more smoothly. WellServed strives to provide its customers with a convenient and pleasurable dining experience by delivering meals on time and with reliability.",
+
+      "largeImage": "/assets/portfolioImages/well-served-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.teonite.wellserved&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/pl/app/wellserved/id874376551",
+      "webLink": "https://wellserved.co/en/"
+    },
+    {
+      "key": "food_delivery",
+      "title": "Menu.am Food Delivery",
+      "icon": "/assets/portfolioImages/menuam-icon.webp",
+      "gradient": "180deg, #F46C8B 0%, #FBBE79 100%",
+      "description": "Leading meal delivery service in Armenia, Menu.am provides a handy way to place orders from a large selection of nearby eateries. The app's intuitive layout makes it simple for users to browse menus, place orders, and follow real-time delivery updates. In addition to offering safe payment methods, Menu.am regularly runs sales and discounts. With the goal of guaranteeing client happiness, the app is renowned for its dependable and prompt delivery service. Due to its partnerships with multiple restaurants, Menu.am can accommodate a wide range of culinary tastes, which makes it a well-liked option for meal delivery in the area.",
+
+      "largeImage": "/assets/portfolioImages/menuam-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=am.menu.app&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/menu-am-food-more-delivery/id991535987",
+      "webLink": "https://menu.am/"
+    },
+    {
+      "key": "on_demand",
+      "title": "Dr+ On Demand",
+      "icon": "/assets/portfolioImages/dr-on-demand-icon.webp",
+      "gradient": "166.11deg, #43AED8 -9.55%, #DFDFDF 104.95%",
+      "description": "A telehealth program called Dr+ On Demand was created to offer easily available and convenient medical consultations. Without having to physically visit a clinic, users can schedule virtual visits with credentialed healthcare specialists to receive medical advice, medications, and treatment plans. Real-time video consultations, encrypted communication, and an easy-to-use UI are all aspects of the app. The goal of Dr+ On Demand is to improve access to healthcare, particularly for people living in rural or disadvantaged areas. It also provides a wide range of services, such as mental health counseling, urgent care, and specialist consultations, making it a complete answer for contemporary healthcare requirements.",
+
+      "largeImage": "/assets/portfolioImages/dr-on-demand-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.doctorondemand.android.patient&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/doctor-on-demand/id591981144",
+      "webLink": "https://doctorondemand.com"
+    },
+    {
+      "key": "on_demand",
+      "title": "MediBuddy",
+      "icon": "/assets/portfolioImages/meddy-buddy-icon.webp",
+      "gradient": "166.11deg, #72CCD4 -9.55%, #FDC4A3 104.95%",
+      "description": "A vast array of medical services are offered by the all-inclusive healthcare software MediBuddy. In addition to scheduling lab tests, ordering medications, and scheduling doctor appointments, users can also receive teleconsultations with medical experts. Easy navigation and a smooth user experience are guaranteed by the app's intuitive layout. Wellness initiatives, in-home medical treatments, and health checkup packages are all provided by MediBuddy. The app seeks to provide convenient and high-quality medical care through its wide network of healthcare professionals. Because MediBuddy guarantees safe transactions and protects user privacy, it is a reliable platform for effectively managing healthcare demands.",
+
+      "largeImage": "/assets/portfolioImages/meddy-buddy-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=in.medibuddy&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/in/app/medibuddy-online-dr-lab-meds/id946666981",
+      "webLink": "https://www.medibuddy.in/doctors/online-consultation"
+    },
+    {
+      "key": "on_demand",
+      "title": "Doctor 365 Mullingar",
+      "icon": "/assets/portfolioImages/doctor-365-icon.webp",
+      "gradient": "166.11deg, #3EB16E -9.55%, #E4E9ED 104.95%",
+      "description": "A healthcare portal called Doctor 365 Mullingar was created to give Mullingar patients easy access to medical treatment. It allows users to maintain their health records online, schedule medical visits, and receive telehealth consultations. Real-time appointment scheduling, encrypted communication, and an easy-to-use UI are all aspects of the app. The mission of Doctor 365 Mullingar is to increase the effectiveness and accessibility of healthcare, especially for those who need urgent medical advice or treatment. In order to provide the community it serves with comprehensive treatment and assistance, it also provides extra services including medication renewals and referrals to specialists.",
+
+      "largeImage": "/assets/portfolioImages/doctor-365-image.webp",
+      "webLink": "https://doctor365.co.in/online-doctors.php"
+    },
+    {
+      "key": "on_demand",
+      "title": "Health Direct",
+      "icon": "/assets/portfolioImages/health-direct-icon.webp",
+      "gradient": "166.11deg, #14D6C6 -9.55%, #08AFB8 104.95%",
+      "description": "Easy access to medical information and services is the goal of the Health Direct app, a comprehensive digital health platform. A number of services are available, such as virtual consultations with medical professionals, health advice, and symptom checkers. Aside from these features, the app offers wellness tracking, prescription reminders, and personal health record management. Health Direct seeks to improve patient access to healthcare and assist consumers in making knowledgeable health decisions with an intuitive user interface and safe data management. This is a helpful tool for anyone looking for affordable medical services and trustworthy health information.",
+
+      "largeImage": "/assets/portfolioImages/health-direct-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=au.org.healthdirect.healthdirectapp&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/au/app/healthdirect/id1021494621?ls=1",
+      "webLink": "https://www.healthdirect.gov.au/"
+    },
+
+    {
+      "key": "matrimony",
+      "title": "Nepali Matrimony",
+      "icon": "/assets/portfolioImages/nepali-matrimony-icon.webp",
+      "gradient": "160.21deg, #FF9699 1.53%, #98ACD7 100.59%",
+      "description": "A portal called Nepali Matrimony was created to assist individuals in Nepal and the Nepali diaspora in finding compatible life partners. It serves people who are looking for partnerships in the Nepali community that would eventually lead to marriage. Users of the app can establish profiles with information about their age, education, occupation, and preferred partners. Based on these parameters, users can look for possible matches and message them using the app's messaging service. The goal of the Nepali Matrimony app is to give Nepali singles a quick, acceptable, and culturally relevant means to meet and choose a life mate.",
+
+      "largeImage": "/assets/portfolioImages/nepali-matrimony-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.nepalimatrimony&pcampaignid=web_share",
+      "webLink": "https://www.nepal-matrimony.com/success"
+    },
+    {
+      "key": "matrimony",
+      "title": "Pakistani Matrimony",
+      "icon": "/assets/portfolioImages/pakistani-matrimony-icon.webp",
+      "largeImage": "/assets/portfolioImages/pakistani-matrimony-image.webp",
+      "gradient": "352.79deg, #01C85D -79.52%, #BDDCCF 101.35%",
+      "description": "The purpose of the app Pakistani Matrimony is to assist individuals of Pakistani descent in finding compatible life partners. It gives people looking for partnerships that result in marriage within the Pakistani community a place to meet. Users can fill out their profiles with information about their age, education, career, and preferred partners. Users of the app can utilize these criteria to find possible matches and message them through the messaging tools. With Pakistani Matrimony, individuals may easily interact with one another and discover suitable life mates in their community while yet maintaining cultural sensitivity.",
+      "image": "/assets/portfolioImages/pakistani-matrimony-mobile-image.svg",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.PakistaniMatrimony&pcampaignid=web_share",
+      "webLink": "https://nikah.com/pk"
+    },
+    {
+      "key": "matrimony",
+      "title": "Wedgate Matrimony",
+      "icon": "/assets/portfolioImages/wedgate-icon.webp",
+      "largeImage": "/assets/portfolioImages//wedgate-image.webp",
+      "gradient": "154.7deg, rgba(255, 12, 152, 0.33) 4.24%, rgba(190, 5, 126, 0.33) 86.93%",
+      "description": "A mobile app called Wedgate Matrimony serves people who are looking for life partners in the Indian community. Users can establish profiles on the app with information about their age, education, profession, and preferred partners. Based on these parameters, users can look for possible matches and message them using the app's messaging service. Wedgate Matrimony offers a safe and easy way for people to meet and create relationships that eventually result in marriage, with the goal of streamlining the process of finding a life mate.",
+
+      "webLink": "https://www.wedgatematrimony.com/?gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8e1O4LHd067t4qm1axI2l5JgJtiaE-gsPSml8w7IIVeaLX3Tmzl6_kaAkWwEALw_wcB"
+    },
+
+    {
+      "key": "salon",
+      "title": "Mirron",
+      "icon": "/assets/portfolioImages/mirron-icon.webp",
+      "gradient": "321.49deg, #D7D6E2 -37.28%, #9B97D6 116.83%",
+      "description": "A variety of services are available on the beauty and wellness app Mirron to assist users in feeling and looking their best. Treatment and service scheduling is made simple for users of the app by allowing them to make appointments at salons, spas, and beauty centers. Through articles and tutorials, Mirron also offers a platform where users can learn about new beauty trends, products, and procedures. By becoming a one-stop shop for all of its customers' beauty requirements, Mirron strives to improve their overall experience with beauty and wellness with an emphasis on quality and convenience.",
+
+      "playstoreLink": "https://play.google.com/store/apps/details?id=me.mirron&hl=en&gl=US",
+      "appleLink": "https://apps.apple.com/us/app/mirron-explore-beauty-nearby/id1524426624?mt=8",
+      "largeImage": "/assets/portfolioImages/mirron-image.webp",
+      "webLink": "https://mirron.me"
+    },
+    {
+      "key": "salon",
+      "title": "Hair Cuttery",
+      "icon": "/assets/portfolioImages/hair-cuttery-icon.webp",
+      "gradient": "283.68deg, #36343A -30.78%, #CCCADD 101.86%",
+      "description": "A well-known network of hair salons, Hair Cuttery provides an extensive selection of hair care treatments for men, women, and kids. Hair Cuttery is well-known for its reasonable costs and easy walk-in appointments, and it has over 750 locations nationwide. In addition to haircuts, styling, coloring, and texturizing treatments, the salon offers a wide range of services. The skilled specialists at Hair Cuttery work hard to give each customer individualized attention. To help clients keep their style in between appointments, the salon also provides a range of high-quality hair care products. All things considered, Hair Cuttery seeks to offer superior hair care services in a warm and inviting setting.",
+      "image": "/assets/portfolioImages/haircuttery-salon-mobile-image.svg",
+      "largeImage": "/assets/portfolioImages/hair-cuttery-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.hipCricket.hairCuttery&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/hair-cuttery/id532250946",
+      "webLink": "https://www.haircuttery.com"
+    },
+    {
+      "key": "salon",
+      "title": "Vagaro",
+      "icon": "/assets/portfolioImages/vagaro-icon.webp",
+      "gradient": "0.47deg, #D8C1C6 4.41%, #1A8EE3 236.06%",
+      "description": "Offering an all-in-one solution for appointment scheduling, client management, and payment processing, Vagaro is a comprehensive platform for enterprises in the beauty, wellness, and fitness industries. Users of the Vagaro app can find and schedule appointments at nearby spas, fitness centers, hairdressers, and more. Customers can choose their favorite service provider, examine service menus, and read reviews. Vagaro offers solutions to businesses so they can track customer preferences, manage timetables, and market their services. In order to improve online visibility, the software also allows for safe payment processing and social media platform integration. In general, Vagaro wants to improve customer booking experiences and expedite business processes.",
+
+      "largeImage": "/assets/portfolioImages/vagaro-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.vagaro&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/vagaro/id5361100004",
+      "webLink": "https://www.vagaro.com"
+    },
+    {
+      "key": "salon",
+      "title": "SimplyBook.me",
+      "icon": "/assets/portfolioImages/simplybook-icon.webp",
+      "gradient": "334.63deg, #2D6BC8 -139.1%, #A8A8A8 151.12%",
+      "description": "Designed for salon and spa businesses, SimplyBook.me is an online booking system that provides a number of features to make managing and scheduling appointments easier. With the help of the software, users may create a fully personalized booking website where customers can conveniently schedule appointments according to availability and service options. In addition, SimplyBook.me offers capabilities for collecting payments, scheduling employees, and reminding customers automatically. The software intends to streamline the booking procedure for customers and companies alike, saving salons and spas time and increasing productivity. When salon owners want to improve their booking systems, SimplyBook.me is a popular option because of its customizable features and easy-to-use interface.",
+
+      "largeImage": "/assets/portfolioImages/simplybook-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=me.simplybook.flutter_simplybook&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/simplybook-me-admin/id1498910745",
+      "webLink": "https://simplybook.me/en/"
+    },
+    {
+      "key": "salon",
+      "title": "Zoylee",
+      "icon": "/assets/portfolioImages/zoylee-icon.webp",
+      "gradient": "9.52deg, #A98245 45.08%, #1C1C1C 257.05%",
+      "description": "With the help of the smartphone app Zoylee, customers may find salon and spa services nearby. The application enables users to peruse an array of services provided by nearby salons and spas, encompassing haircuts, styling, massages, and facials. Through the app, users can make appointments, check prices, and read reviews. The goal of Zoylee is to give consumers an easy method to find and schedule beauty treatments, and to assist salon owners in growing their clientele and improving the way they run their companies. Ultimately, Zoylee wants to improve the experience of wellness and beauty for salon workers as well as users.",
+      "text": "#ffffff",
+      "largeImage": "/assets/portfolioImages/zoylee-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.zoylee&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/zoylee/id1518214581",
+      "webLink": "https://www.zoylee.com/"
+    },
+
+    {
+      "key": "taxi",
+      "title": "Cabify",
+      "icon": "/assets/portfolioImages/cabify-icon.webp",
+      "gradient": "154.63deg, #7145D6 -45.93%, #FFFFFF 124.12%",
+      "description": "Cabify is a transportation network startup that provides ride-hailing services via its mobile app and is present in numerous European and Latin American countries. Cabify lets users plan rides, monitor their driver's whereabouts in real time, and pay for their journeys online, just like other ride-hailing apps. Cabify is renowned for emphasizing safety and provides tools like ride tracking and background checks on drivers. Additionally, the app offers possibilities for various ride kinds, such as group transportation, executive automobiles, and regular cars. In an effort to rival other ride-hailing services like Uber and Lyft, Cabify seeks to offer consumers in urban regions a dependable and practical transportation option.",
+      "largeImage": "/assets/portfolioImages/cabify-image.webp",
+
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.cabify.rider&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/es/app/cabify/id476087442",
+      "webLink": "https://cabify.com/en"
+    },
+    {
+      "key": "taxi",
+      "title": "Huma Drive",
+      "icon": "/assets/portfolioImages/huma-drive-icon.webp",
+      "gradient": "154.63deg, #EA736A -45.93%, #FFFFFF 124.12%",
+      "description": "A transportation app called Huma Drive cab offers cab services whenever they're needed. Through the app, users can conveniently schedule rides, monitor the driver's whereabouts in real time, and make electronic trip payments. Huma Drive Taxi strives to provide customers with a dependable and practical mode of transportation, guaranteeing on-time pickups and secure travels to their locations. The app aims to improve user experience and foster passenger trust with features like fare estimates and driver ratings. Huma Drive Taxi offers accessible transportation options for both vacationers and commuters in a number of places.",
+
+      "largeImage": "/assets/portfolioImages/huma-drive-image.webp",
+      "playstoreLink": " https://play.google.com/store/apps/details?id=uz.bdmgroup.humo_taxi_driver&pcampaignid=web_share",
+
+      "webLink": "https://www.shumatech.co.za"
+    },
+    {
+      "key": "taxi",
+      "title": "Jugnoo Taxi",
+      "icon": "/assets/portfolioImages/jugnoo-icon.webp",
+
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+      "description": "A taxi service called Jugnoo Taxis provides on-demand trips via a mobile app. India-based Jugnoo Taxis focuses on offering its customers convenient and reasonably priced transportation options. With the app, users can pay for their travels online, book rides, and monitor the whereabouts of the driver they were given. Jugnoo Taxis seeks to offer a dependable substitute for conventional cab services while streamlining the taxi booking procedure. Jugnoo Taxis has grown in popularity among commuters in Indian cities by emphasizing client happiness and providing effective service.",
+      "largeImage": "/assets/portfolioImages/jugnoo-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=product.clicklabs.jugnoo&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/in/app/jugnoo-driver/id1378177428",
+      "webLink": "https://jugnoo.io/?utm_source=google_search&utm_medium=Jugnoo_Branded_IND&utm_term=jugnoo&utm_campaign=20575896454&gad_source=1&gclid=Cj0KCQjwmMayBhDuARIsAM9HM8cHhaMv46eBN0Rrv47JGGRjDJ_9ePDtQ6BT9R6oQ2OGIMwfZFas9SMaAq9PEALw_wcB"
+    },
+    {
+      "key": "taxi",
+
+      "title": "Borzo",
+      "icon": "/assets/portfolioImages/brozo-icon.webp",
+      "largeImage": "/assets/portfolioImages/brozo-image.webp",
+
+      "gradient": "159.56deg, #0F53FF -52.13%, #FFFFFF 98.62%",
+      "description": "Borzo is an app for international courier services that offers both consumers and companies on-demand delivery options. Through the app, customers may order a variety of items—such as documents, parcels, and groceries—for prompt and efficient pick-up and delivery. With features including real-time tracking, clear pricing, and safe payment choices, Borzo links customers with local couriers. Borzo meets the logistics requirements of e-commerce, retail, and other industries with its convenient and dependable design. The application seeks to optimize the delivery process by guaranteeing prompt and secure deliveries and augmenting consumer contentment via its intuitive interface and resilient support network.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=global.dostavista.client&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/borzo-courier-delivery-app/id1530403049",
+      "webLink": "https://borzodelivery.com/in/cities/home-delivery-bengaluru"
+    },
+    {
+      "key": "taxi",
+      "title": "Indrive",
+      "icon": "/assets/portfolioImages/indrive-icon.webp",
+
+      "largeImage": "/assets/portfolioImages/indrive-image.webp",
+      "gradient": "142.15deg, #A7E92F -53.75%, #A6A3A3 126.13%",
+      "description": "Indrive is a platform dedicated to providing efficient and affordable city ride services. With features such as real-time tracking, transparent pricing, and secure payments, users can easily book rides for their daily commute or special occasions. Indrive aims to offer a seamless experience for both passengers and drivers, ensuring reliability and convenience. Whether you need a quick ride to work or a comfortable journey across town, Indrive has you covered. Download the app now to experience hassle-free city travel.",
+      "playstoreLink": " https://play.google.com/store/apps/details?id=sinet.startup.inDriver&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/indrive-save-on-city-rides/id780125801?mt=8",
+      "webLink": "https://indrive.com/en/home/"
+    },
+    {
+      "key": "courier",
+      "title": "EcoParcel",
+      "icon": "/assets/portfolioImages/ecoparcel-icon.webp",
+
+      "largeImage": "/assets/portfolioImages/eco-parcel-image.webp",
+      "gradient": "170.96deg, #31FF9F -123.93%, #BABABA 121.89%",
+      "description": "The goal of the courier app EcoParcel is to make package delivery and receipt more efficient. Its features, which include real-time tracking, transparent pricing, and secure payments, enable users to schedule delivery services swiftly and effectively. Notifications regarding the status of their deliveries, real-time parcel tracking, and scheduled pickups are all available to users. With the goal of improving the entire logistics experience, EcoParcel serves both individual users and enterprises. The software prioritizes dependability and convenience, guaranteeing timely and safe item delivery. EcoParcel is a popular option because of its easy-to-use interface, which streamlines the courier process.",
+
+      "webLink": "https://www.ecoparcel.eu/en/"
+    },
+    {
+      "key": "courier",
+      "title": "Metrobi",
+      "icon": "/assets/portfolioImages/metrobi-icon.webp",
+
+      "largeImage": "/assets/portfolioImages/metrobi-image.webp",
+      "gradient": "170.96deg, #722AC2 -123.93%, #F3E9FF 121.89%",
+      "description": "Business delivery services that are dependable and efficient are the focus of the courier app Metrobi. It is primarily concerned with delivering things, including food and drink, to nearby restaurants and businesses. To guarantee prompt deliveries, Metrobi provides capabilities like automatic dispatching, real-time tracking, and route optimization. In order to assist businesses easily satisfy client requests, the software attempts to streamline logistics. Metrobi provides transparency and efficiency in delivery, which improves the experience with its powerful technology and user-friendly interface. Businesses may increase overall customer happiness and operational efficiency by using the app to manage deliveries more effectively.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.metrobi.driver&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/in/app/metrobi-drivers/id1545702178",
+      "webLink": "https://metrobi.com/"
+    },
+    {
+      "key": "courier",
+      "icon": "/assets/portfolioImages/transfergo-icon.webp",
+      "title": "TransferGo",
+
+      "largeImage": "/assets/portfolioImages/transfergo-image.webp",
+      "gradient": "156.66deg, #1E89F3 -0.73%, #FBFDFF 184.25%",
+      "description": "TransferGo provides efficient and reliable delivery services, catering to the needs of both individual customers and businesses. With features such as real-time tracking, transparent pricing, and secure payments, users can easily schedule courier services. Through TransferGo, customers can connect with a network of couriers capable of handling various delivery requirements, including larger items and documents. The app aims to streamline the delivery process while ensuring prompt and secure deliveries. With its user-friendly interface and focus on convenience, TransferGo facilitates effective logistics management and meets delivery commitments efficiently.",
+
+      "webLink": "https://www.transfergo.com/send-africa-delivery"
+    },
+    {
+      "key": "dating",
+      "title": "Kisses Of Africa",
+      "icon": "/assets/portfolioImages/kisses-of-africa-icon.webp",
+      "largeImage": "/assets/portfolioImages/kisses-of-africa-image.webp",
+
+      "gradient": "138.13deg, rgba(213, 27, 32, 0.77) -31.54%, rgba(239, 144, 31, 0.77) 86.1%",
+      "description": "A dating website called 'Kisses of Africa' is designed especially for people who want to date people from Africa or who are African-American. Its goal is to bring individuals together for dating, friendship, and possibly even long-term partnerships. It is likely that the platform offers features like profile creation, matchmaking based on many parameters, video calls, and chat. It's preferable to check the app directly for the most accurate and up-to-date information on its features and services, as my information may not be current.",
+      "webLink": "https://www.kissesofafrica.com/"
+    },
+    {
+      "key": "videostreaming",
+      "title": "SUPERLIVE",
+      "icon": "/assets/portfolioImages/superlive-logo.webp",
+      "largeImage": "/assets/portfolioImages/superlive-image.webp",
+
+      "gradient": "138.13deg, rgba(213, 27, 32, 0.77) -31.54%, rgba(239, 144, 31, 0.77) 86.1%",
+      "description": "The SuperLive app is a platform where you can showcase your talents and skills to a global audience while connecting with new friends. By going LIVE on SuperLive, you can let the world see what makes you unique. Users can share their special moments and watch others do the same. You can also chat with streamers or send them virtual gifts to show your support. With SuperLive, it’s easy to grow your followers and build a strong, engaged community. Start sharing, connecting, and growing today!",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.superlive.liveapp",
+      "appleLink": "https://apps.apple.com/us/app/superlive-live-stream-go-live/id1545607822?mt=8",
+      "webLink": "https://www.superlivellc.com/"
+    },
+    {
+      "key": "dating",
+      "title": "Yoomee",
+      "icon": "/assets/portfolioImages/yommee-icon.webp",
+      "largeImage": "/assets/portfolioImages/yommee-image.webp",
+
+      "gradient": "140.04deg, rgba(62, 0, 218, 0.77) -30.55%, rgba(240, 196, 94, 0.77) 107.42%",
+      "description": "Yoomee is a vibrant dating app with a largely African user base. Finding connections—whether romantic or platonic—is made easier with its user-friendly layout. People can submit images, create comprehensive profiles, and peruse a wide variety of profiles on the platform. Meaningful relationships are fostered by its comprehensive messaging system, which makes communication between matches easy. With features that take into account regional preferences and customs, Yoomee's emphasis on the African market guarantees a culturally authentic experience. Yoomee wants to build a thriving community where people may find real connections and enduring relationships. To that end, it takes an innovative approach and is dedicated to customer pleasure.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=de.mobiletrend.lovidoo&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/yoomee-dating-meet-people/id904596206",
+      "webLink": "https://www.yoomee.love/"
+    },
+    {
+      "key": "dating",
+      "title": "Likerro",
+      "icon": "/assets/portfolioImages/likerro-icon.webp",
+      "largeImage": "/assets/portfolioImages/likerro-image.webp",
+
+      "gradient": "248.72deg, rgba(255, 108, 1, 0.77) 4.76%, rgba(226, 98, 95, 0.77) 72.29%",
+      "description": "A new dating software called 'Likerro' promises to revolutionize the way people meet online. Designed with contemporary singles looking for deep connections in mind, it has an easy-to-use interface and practical functionality. Users are able to create intricate profiles that highlight their interests and personalities. Genuine relationships are more likely because of the app's unique algorithm, which finds potential matches based on common values and interests. Likerro promotes meaningful discussion above mindless swiping by emphasizing the development of genuine connections. Sophisticated security protocols put user privacy and security first, boosting platform trust. Likerro wants to revolutionize the online dating scene by enabling people to discover love in the digital age.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.panda.likerro&pcampaignid=web_share",
+      "appleLink": "https://play.google.com/store/apps/details?id=com.panda.likerro",
+      "webLink": "https://likerro.com/"
+    },
+    {
+      "key": "jobportal",
+      "title": "XING",
+      "icon": "/assets/portfolioImages/kindjob-logo.webp",
+      "largeImage": "/assets/portfolioImages/kindjob-image.webp",
+
+      "gradient": "248.72deg, rgba(255, 108, 1, 0.77) 4.76%, rgba(226, 98, 95, 0.77) 72.29%",
+      "description": "A new dating software called 'Likerro' promises to revolutionize the way people meet online. Designed with contemporary singles looking for deep connections in mind, it has an easy-to-use interface and practical functionality. Users are able to create intricate profiles that highlight their interests and personalities. Genuine relationships are more likely because of the app's unique algorithm, which finds potential matches based on common values and interests. Likerro promotes meaningful discussion above mindless swiping by emphasizing the development of genuine connections. Sophisticated security protocols put user privacy and security first, boosting platform trust. Likerro wants to revolutionize the online dating scene by enabling people to discover love in the digital age.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.xing.android",
+      "appleLink": "https://apps.apple.com/us/app/xing-the-right-job-for-you/id297625850",
+      "webLink": "https://www.xing.com/en"
+    },
+    {
+      "key": "dating",
+      "title": "Mingle",
+      "icon": "/assets/portfolioImages/mingle-icon.webp",
+      "largeImage": "/assets/portfolioImages/mingle-image.webp",
+      "image": "/assets/portfolioImages/mingle-dating-mobile-image.svg",
+      "gradient": "152.62deg, rgba(1, 112, 191, 0.44) -18.93%, rgba(241, 147, 40, 0.44) 129.45%",
+      "description": "A fun dating app called 'Mingle' serves a wide range of single people looking for love and friendship. With its intuitive UI, it makes it easier to make meaningful connections. Users are able to create intricate profiles that highlight their hobbies and personalities. Based on compatibility and personal preferences, the app's clever matching system recommends compatible matches. Users can have vibrant chats and learn more about possible mates with the help of the extensive messaging features. Users of Mingle can explore new connections at their own speed in a friendly community. It puts safety and privacy first because it cares about user pleasure and wants to create a secure environment for everyone. Mingle aims to generate romantic sparks in the internet sphere, facilitating meaningful connections between individuals.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=mingle.android.mingle2&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/mingle2-dating-meet-people/id1265035248",
+      "webLink": "https://mingle2.com/"
+    },
+    {
+      "key": "dating",
+      "title": "Malavida",
+      "icon": "/assets/portfolioImages/malvida-icon.webp",
+
+      "largeImage": "/assets/portfolioImages/malvida-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+      "description": "Malavida is a platform that offers a wide range of software downloads for Android, macOS, and Windows operating systems. Whether you're looking for productivity tools, entertainment apps, or utilities, Malavida provides a curated selection of software for various purposes. Users can explore the latest apps, read reviews, and download software directly from the platform. With an easy-to-navigate interface and regular updates, Malavida ensures that users have access to the best and most up-to-date software for their devices.",
+      "playstoreLink": "https://www.malavida.com/en/android/",
+      "appleLink": "https://www.malavida.com/en/mac/",
+      "webLink": "https://www.malavida.com/en/windows/"
+    },
+    {
+      "key": "dating",
+      "title": "Flipin",
+      "icon": "/assets/portfolioImages/flipin-icon.webp",
+
+      "largeImage": "/assets/portfolioImages/flipin-image.webp",
+      "gradient": "152.62deg, rgba(1, 112, 191, 0.44) -18.93%, rgba(241, 147, 40, 0.44) 129.45%",
+      "description": "Flipin is a dating app designed for individuals seeking romantic connections, friendships, and meaningful relationships. With a user-friendly interface and advanced matching algorithms, Flipin makes it easy for users to find compatible partners based on their interests, preferences, and location. The app offers features such as profile creation, messaging, and real-time notifications to facilitate communication between users. Whether you're looking for casual dates or a serious relationship, Flipin provides a platform for meeting like-minded people and building connections in the digital age.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.cupidmedia.wrapper.filipinocupid&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/filipinocupid-filipino-dating/id1601320796",
+      "webLink": "https://www.filipinocupid.com/"
+    },
+
+    {
+      "key": "hotel",
+      "title": "HotelsCombined",
+      "icon": "/assets/portfolioImages/hotelcombined-icon.webp",
+      "largeImage": "/assets/portfolioImages/hotelcombined-image.webp",
+      "image": "/assets/portfolioImages/hotelcombined-image.webp",
+      "gradient": "140.45deg, rgba(248, 247, 255, 0.44) -10.21%, rgba(0, 174, 240, 0.44) 90.25%",
+      "description": "HotelCombined is a popular hotel metasearch engine that allows users to compare prices from multiple hotel booking sites in one place. It aggregates deals from platforms like Booking.com, Expedia, Agoda, Hotels.com, and more, helping travelers find the best rates for accommodations worldwide.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.hotelscombined.mobile&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/hotelscombined-hotel-search/id378011496",
+      "webLink": "https://www.hotelscombined.co.kr/"
+    },
+    {
+      "key": "hotel",
+      "title": "Bag2Bag",
+      "icon": "/assets/portfolioImages/bagtobag-icon.webp",
+      "largeImage": "/assets/portfolioImages/bagtobag-image.webp",
+      "image": "/assets/portfolioImages/bagtobag-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+      "description": "Bag2Bag is an online hotel booking platform that specializes in offering hourly, short-stay, and long-stay hotel accommodations in India. It provides flexible booking options for travelers who need a hotel for a few hours, a night, or an extended stay.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.ionicframework.projectx956620&pcampaignid=web_share",
+      "appleLink": "https://apps.apple.com/us/app/bag2bag-hotel-booking-app/id1563969368 ",
+      "webLink": "https://bag2bag.in/"
+    },
+    {
+      "key": "hotel",
+      "title": "Let'sBookHotel",
+      "icon": "/assets/portfolioImages/let's-book-hotel-icon.webp",
+      "largeImage": "/assets/portfolioImages/lets-book-hotel-image.webp",
+      "image": "/assets/portfolioImages/lets-book-hotel-image.webp",
+      "gradient": " 180deg, #06304C 0%, #0077C7 100%",
+      "text": "#ffffff",
+      "description": "Let's Book Hotel is an online platform that allows users to compare and book accommodations worldwide, including hotels, apartments, and holiday homes. The website emphasizes offering a wide selection of properties and the convenience of booking now and paying upon arrival.",
+
+      "webLink": "https://www.letsbookhotel.com/"
+    },
+    {
+      "key": "dating",
+      "title": "Singles Around Me",
+      "icon": "/assets/portfolioImages/single-logo.webp",
+      "largeImage": "/assets/portfolioImages/single-image.webp",
+      "image": "/assets/portfolioImages/single-image.webp",
+      "gradient": " 180deg, #06304C 0%, #0077C7 100%",
+      "text": "#ffffff",
+      "description": "SinglesAroundMe is a dating app designed to help people build genuine connections. Since its launch in 2010, it has been dedicated to bringing happiness by making it simple for users to meet like-minded singles nearby or anywhere across the globe. In today’s world of uncertainty and social challenges, SinglesAroundMe aims to bring people closer, fostering meaningful relationships and creating a sense of togetherness.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.singlesaroundme.android&hl=en_IN",
+      "appleLink": "https://apps.apple.com/us/app/singlesaroundme-local-dating/id367375109",
+      "webLink": "https://www.singlesaroundme.com/"
+    },
+    {
+      "key": "marketing",
+      "title": "Tamara Mellon",
+      "icon": "/assets/portfolioImages/tamara-mellon.png",
+      "largeImage": "/assets/portfolioImages/tamara-mellon-image.webp",
+      "image": "/assets/portfolioImages/tamara-mellon-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Tamara Mellon’s showcases her luxury footwear brand with collections like Fall '24, Forever Collection, and Pillow Top. The brand emphasizes craftsmanship and comfort with direct-to-consumer pricing. You can shop for sandals, pumps, flats, and boots, and explore details on their luxury craftsmanship. The site also features customer service information, shipping, returns, and FAQs. Check out the latest collections and sales directly on the website.",
+
+      "webLink": "https://www.tamaramellon.com/"
+    },
+    {
+      "key": "education",
+      "title": "Mayoor School Jaipur",
+      "icon": "/assets/portfolioImages/mayoor-logo.webp",
+      "largeImage": "/assets/portfolioImages/mayoor-school-jaipur-image.webp",
+      "image": "/assets/portfolioImages/mayoor-school-jaipur-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Mayoor School Jaipur, in collaboration with Mayo College General Council, Ajmer, offers education from Class 1 to 9 with a focus on personalized and experiential learning. Affiliated with Cambridge Assessment International Education (CAIE), the school emphasizes critical thinking, problem-solving, and holistic development. It provides modern facilities like smart classrooms, sports areas, and co-curricular activities, ensuring well-rounded student growth.",
+
+      "webLink": "https://www.mayoorschooljaipur.org/"
+    },
+
+    {
+      "key": "education",
+      "title": "British International School",
+      "icon": "/assets/portfolioImages/british_new_logo.webp",
+      "largeImage": "/assets/portfolioImages/bis-image.webp",
+      "image": "/assets/portfolioImages/bis-image.webp",
+      "gradient": " 180deg, #06304C 0%, #0077C7 100%",
+      "text": "#ffffff",
+      "description": "British International School Jaipur is a CBSE-affiliated co-educational institution offering education from Pre-primary to Grade XII. It follows a Learning by Doing approach, integrating academics with sports, arts, and extracurricular activities. The school provides smart classrooms, modern labs, and a secure environment, fostering creativity and critical thinking.",
+
+      "webLink": "https://bisjaipur.com/main/index.php"
+    },
+    {
+      "key": "taxi",
+      "title": "Taxi Me",
+      "icon": "/assets/portfolioImages/taxime-logo.webp",
+      "largeImage": "/assets/portfolioImages/taxime-image.webp",
+      "image": "/assets/portfolioImages/taxime-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "TaxiMe is a popular taxi service provider that started in Bulgaria five years ago. Recognized as one of the most successful startups in the country, TaxiMe connects more than 350,000 riders with a network of 3,500 trusted taxi drivers in Sofia. Using a smart algorithm, their app efficiently matches passengers with the nearest available drivers, ensuring quick and reliable rides.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.taxime.client",
+      "appleLink": "https://apps.apple.com/bg/app/taxime-client/id744137021",
+      "webLink": "https://taxime.to/"
+    },
+    {
+      "key": "education",
+      "title": "Geetanjali Institute of Technical Studies (GITS)",
+      "icon": "/assets/portfolioImages/gits-logo.webp",
+      "largeImage": "/assets/portfolioImages/gits-image.webp",
+      "image": "/assets/portfolioImages/gits-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "Geetanjali Institute of Technical Studies (GITS), established in 2003 in Udaipur, is affiliated with Rajasthan Technical University and approved by AICTE. It offers B.Tech, M.Tech, MBA, MCA, and Ph.D. programs with NAAC ‘A’ and NBA accreditation. The campus features modern facilities, including Wi-Fi-enabled hostels, labs, and sports amenities. GITS has a strong placement record with top recruiters like Wipro, Infosys, and ICICI Bank.",
+
+      "webLink": "https://www.gits.ac.in/"
+    },
+    {
+      "key": "education",
+      "title": "Worktango",
+      "icon": "/assets/portfolioImages/worktango-logo.webp",
+      "largeImage": "/assets/portfolioImages/worktango-image.webp",
+      "image": "/assets/portfolioImages/worktango-image.webp",
+      "gradient": " 156.66deg, #1E89F3 -0.73%, #FBFDFF 184.25%",
+
+      "description": "WorkTango is a SaaS-based company offering a holistic Employee Experience Platform designed to enhance workplace engagement and performance. Their platform integrates Recognition & Rewards, Surveys & Insights, and Goals & Feedback functionalities to help organizations improve employee engagement, increase retention, and boost performance. Headquartered in Austin, Texas, with additional offices in Chicago and Toronto, WorkTango serves over a thousand organizations across various industries. ",
+
+      "webLink": "https://www.worktango.com/"
+    },
+    {
+      "key": "dating",
+      "title": "Adore",
+      "icon": "/assets/portfolioImages/adore-logo.webp",
+      "largeImage": "/assets/portfolioImages/adore-image.webp",
+      "image": "/assets/portfolioImages/adore-image.webp",
+      "gradient": " 156.66deg, #1E89F3 -0.73%, #FBFDFF 184.25%",
+
+      "description": "Adore is a trendy online dating app that perfectly caters to the modern youth. From flirting to sending virtual meeting requests, Adore has become a popular choice for young users. What sets it apart is its unique compatibility quiz, which users must complete before they can send connection requests to others. This feature ensures more meaningful matches, making Adore a standout in the world of dating apps.",
+      "playstoreLink": "https://apkpure.com/adore-flirt-love/com.adore.android/download"
+    },
+
+    {
+      "key": "education",
+      "title": "Asha Foundation",
+      "icon": "/assets/portfolioImages/asha-foundation-new-logo.webp",
+      "largeImage": "/assets/portfolioImages/asha-foundation-image.webp",
+      "image": "/assets/portfolioImages/asha-foundation-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Asha Foundation is a non-profit organization dedicated to social welfare, focusing on healthcare, education, and community development. It provides support for underprivileged children, HIV/AIDS awareness, and differently-abled individuals. The foundation operates various programs to empower communities through education and healthcare initiatives.",
+
+      "webLink": "https://ashafdn.org.in/"
+    },
+    {
+      "key": "ecommerce",
+      "title": "Shoppers",
+      "icon": "/assets/portfolioImages/shoppers-logo.webp",
+      "largeImage": "/assets/portfolioImages/shoppers-image.webp",
+      "image": "/assets/portfolioImages/shoppers-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Shoppers is a well-known food delivery app in the United States, offering both self-pickup and online delivery services. The app provides a variety of products, including meat, bakery items, pet supplies, and much more, catering to customers across major regions of the country. With its convenient options, Shoppers makes it easy to get what you need, delivered right to your door or ready for pickup.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=shoppersstop.shoppersstop&hl=en",
+      "appleLink": "https://apps.apple.com/in/app/shoppers-stop-fashion-shopping/id1047171444",
+      "webLink": "https://www.shoppersstop.com/"
+    },
+    {
+      "key": "dating",
+      "title": "BLOMMY",
+      "icon": "/assets/portfolioImages/blommy-logo.webp",
+      "largeImage": "/assets/portfolioImages/blommy-image.webp",
+      "image": "/assets/portfolioImages/blommy-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Online dating has become a major trend in recent times, particularly among young men and women. To make this experience simpler and more enjoyable, Bloomy, a popular dating messenger app, has been introduced. Originating from Czechia, Bloomy helps users connect with potential soulmates, chat with them, and explore meaningful relationships. It’s designed to make online dating fun, easy, and accessible for everyone looking to find their perfect match.",
+      "playstoreLink": "https://apkpure.com/bloomy-dating-messenger-app/com.bloomyapp"
+    },
+    {
+      "key": "education",
+      "title": "Paathshala Trust",
+      "icon": "/assets/portfolioImages/paathshalatrust_logo.webp",
+      "largeImage": "/assets/portfolioImages/paathshalatrust-image.webp",
+      "image": "/assets/portfolioImages/paathshalatrust-image.webp",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+
+      "description": "Paathshala Trust, established in 2019 in Jaipur, is a non-profit organization dedicated to child rights and sustainable development. Its mission is to create a society where no child is denied access to education or forced into exploitative labor. The trust provides children with a healthy start, learning opportunities, and protection from violence. ",
+
+      "webLink": "https://www.paathshalatrust.org/"
+    },
+    {
+      "key": "elearning",
+      "title": "Math & Science Tutor",
+      "icon": "/assets/portfolioImages/tutor-logo.webp",
+      "largeImage": "/assets/portfolioImages/tutor-image.webp",
+      "image": "/assets/portfolioImages/tutor-image.webp",
+      "gradient": " 156.66deg, #1E89F3 -0.73%, #FBFDFF 184.25%",
+
+      "description": "Math & Science Tutor is a top-rated eLearning app designed to help students who find Maths and Science challenging. It offers a fantastic solution for learning subjects like Algebra, Calculus, Physics, and more. The app features over 1,500 video lessons covering a wide range of topics, including Math, Calculus, Chemistry, and Statistics, along with 500+ hours of detailed, step-by-step instructions. It’s the perfect tool for students looking to improve their understanding and excel in these subjects.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.mathtutordvd.mathtutor.mathtutor&hl=en_IN",
+
+      "webLink": "https://www.mathtutordvd.com/"
+    },
+    {
+      "key": "ecommerce",
+      "title": "Madnesss",
+      "icon": "/assets/portfolioImages/madness-logo.webp",
+      "largeImage": "/assets/portfolioImages/medness-image.webp",
+      "image": "/assets/portfolioImages/medness-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Madness (MDNS) is an online shop created by Shawn Yue, built around his creative ideas. It started four years after he launched his first brand, Common Sense (CMSS). While CMSS was his first step, MDNS gave Shawn the freedom to design and sell clothing that represents his unique style, or madness. The store also encourages customers to discover and express their own style by choosing and wearing pieces that reflect who they are. MDNS is all about individuality and self-expression through fashion.",
+
+      "webLink": "https://www.mdnsonline.com/"
+    },
+    {
+      "key": "food_delivery",
+      "title": "AREA FOUR",
+      "icon": "/assets/portfolioImages/areafour-logo.webp",
+      "largeImage": "/assets/portfolioImages/areafour-image.webp",
+      "image": "/assets/portfolioImages/areafour-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Area Four is a well-known pizza delivery website in the United States. With several locations in Boston, they offer both dine-in and takeaway options to their customers. Their stores can be found in popular spots like South End, A4 Cafe, Kendall Square, and A4 Cade. Known for their delicious pizzas and convenient services, Area Four is a favorite choice for pizza lovers across the city.",
+
+      "webLink": "https://www.areafour.com/"
+    },
+    {
+      "key": "food_delivery",
+      "title": "Thistle",
+      "icon": "/assets/portfolioImages/Thistle-logo.webp",
+      "largeImage": "/assets/portfolioImages/Thistle-image.webp",
+      "image": "/assets/portfolioImages/Thistle-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Founded in 2014, Thistle is dedicated to delivering healthy and safe meals straight to your doorstep. With a strong focus on environmental sustainability, they offer organic and vegan prepared meals that are not only nutritious but also eco-friendly. By choosing Thistle, you’re supporting a greener planet while enjoying delicious, health-conscious food.",
+
+      "webLink": "https://www.thistle.co/"
+    },
+    {
+      "key": "food_delivery",
+      "title": "JUST EAT",
+      "icon": "/assets/portfolioImages/just-eat-logo.webp",
+      "largeImage": "/assets/portfolioImages/just-eat.webp",
+      "image": "/assets/portfolioImages/just-eat.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "JustEat.ch is the perfect solution for anyone who prefers not to cook or gets late-night cravings. This app lets users order a variety of food and drinks, including main courses, fast food, cold beverages, and more—anytime, whether it’s morning, evening, or midnight. Available in Switzerland and supporting multiple languages, JustEat.ch makes it easy to enjoy your favorite meals. With just a few taps, you can have your food delivered to your doorstep in 30 to 45 minutes. It’s the ultimate convenience for food lovers!",
+
+      "webLink": "https://www.justeattakeaway.com/home/default.aspx"
+    },
+    {
+      "key": "food_delivery",
+      "title": "Vers Trade",
+      "icon": "/assets/portfolioImages/verse-trade-logo.webp",
+      "largeImage": "/assets/portfolioImages/verse-trade.webp",
+      "image": "/assets/portfolioImages/verse-trade.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Vers Trade helps restaurants and large organizations easily source their required raw food supplies on a regular basis through a CRM and mobile applications. We supported the client by maintaining the system and developing new features to enhance the user experience, ensuring customers enjoy a seamless and efficient service.",
+
+      "webLink": "https://www.behance.net/gallery/113368287/Vers-Trade-Fresh-Food-Supply-in-Nederlands"
+    },
+    {
+      "key": "on_demand",
+      "title": "HEALOW",
+      "icon": "/assets/portfolioImages/healow-logo.webp",
+      "largeImage": "/assets/portfolioImages/healow.webp",
+      "image": "/assets/portfolioImages/healow.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+      "description": "Healow is a secure health data management app designed to help you and your family keep track of important health information. From medications and lab reports to allergies and more, Healow organizes everything in one place. It also acts as a bridge between you and your doctor, allowing you to connect remotely through audio or video calls using your smartphone or computer. With Healow, you can access all your vital health records anytime, anywhere, eliminating the need to carry around bulky folders.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.ecw.healow&pli=1",
+      "appleLink": "https://apps.apple.com/us/app/healow/id595012291?ls=1",
+      "webLink": "https://healow.com/apps/jsp/webview/index.jsp"
+    },
+    {
+      "key": "ecommerce",
+      "title": "So Worth Loving",
+      "icon": "/assets/portfolioImages/so-worth-logo.webp",
+      "largeImage": "/assets/portfolioImages/so-worth-image.webp",
+      "image": "/assets/portfolioImages/so-worth-image.webp",
+      "gradient": " 180deg, #06304C 0%, #0077C7 100%",
+      "text": "#ffffff",
+      "description": "So Worth Loving is a trendy online clothing store that specializes in the latest college styles and fashion trends. They ship to all 50 US states and more than 30 countries worldwide. What makes them unique is their connection with scouts on over 80 college campuses, who help shape their designs by sharing insights into current trends. Built on Shopify with custom designs, So Worth Loving offers a one-of-a-kind shopping experience for fashion-forward individuals looking to stay ahead of the curve.",
+
+      "webLink": "https://soworthloving.com/"
+    },
+    {
+      "key": "ecommerce",
+      "title": "JOOM",
+      "icon": "/assets/portfolioImages/joom-logo.webp",
+      "largeImage": "/assets/portfolioImages/joom-image.webp",
+      "image": "/assets/portfolioImages/joom-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Joom is a unique online mobile marketplace that goes beyond just shopping. It offers features like personalized recommendations and communication tools connecting buyers, sellers, and popular bloggers. Designed to meet the needs of mobile-based shoppers and sellers, Joom has become a standout app in the mobile eCommerce space, delivering everything users have been looking for in a convenient and user-friendly platform.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.joom",
+      "appleLink": "https://apps.apple.com/us/app/joom-shopping-for-every-day/id1117424833",
+      "webLink": "https://www.joom.com/en"
+    },
+    {
+      "key": "e-wallet",
+      "title": "GoPayz",
+      "icon": "/assets/portfolioImages/Gopayz-logo.webp",
+      "largeImage": "/assets/portfolioImages/Gopayz-image.webp",
+      "image": "/assets/portfolioImages/Gopayz-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "description": "Gopayz is a universal eWallet designed to help users enjoy an affordable lifestyle while offering digital financial and Islamic services. With this app, users can make payments using physical or virtual prepaid cards. Each account is linked to virtual cards from Mastercard, Visa, and UnionPay, with the option to request physical cards. Gopayz also introduces a modern way to invest, insure, and exchange currencies. All these services are available to users anytime, anywhere, making financial management simple and convenient.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.cedarplus.gopayz&hl=en_IN",
+      "appleLink": "https://apps.apple.com/us/app/gopayz/id1465572076"
+    },
+    {
+      "key": "e-wallet",
+      "title": "Instapay",
+      "icon": "/assets/portfolioImages/instapay-logo.webp",
+      "largeImage": "/assets/portfolioImages/instapay-image.webp",
+      "image": "/assets/portfolioImages/instapay-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "Enjoy the benefits of a top-rated eWallet app that lets you create a digital account right on your mobile device. This account comes with a globally accepted Mastercard, making it perfect for a variety of uses like cross-border transfers, salary deposits, ATM withdrawals, bank transfers, peer-to-peer payments, QR code payments, and more. With a built-in passbook feature, users can easily track and manage all their transactions in one place. It’s a convenient and secure way to handle your finances anytime, anywhere.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.egyptianbanks.instapay",
+      "appleLink": "https://apps.apple.com/eg/app/instapay-egypt/id1592108795",
+      "webLink": "https://www.instapay.eg/?lang=en"
+    },
+    {
+      "key": "elearning",
+      "title": "uLesson",
+      "icon": "/assets/portfolioImages/ulesson-logo.webp",
+      "largeImage": "/assets/portfolioImages/ulesson-image.webp",
+      "image": "/assets/portfolioImages/ulesson-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "There’s no doubt about the importance of eLearning apps, and uLesson is a standout platform built on this idea. Designed for students in junior and senior secondary schools, uLesson also supports those preparing for major exams like WAEC, GCSE, A-Levels, BECE, GCE, NECO, JAMB, and more. This versatile app provides quality learning resources, making it a valuable tool for students aiming to excel in their studies and exams.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.ulesson&hl=en_IN",
+
+      "webLink": "https://ulesson.com/"
+    },
+    {
+      "key": "matrimony",
+      "title": "Vivhaa",
+      "icon": "/assets/portfolioImages/vivhaa-logo.webp",
+      "largeImage": "/assets/portfolioImages/vivhaa-image.webp",
+      "image": "/assets/portfolioImages/vivhaa-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "Discover the advantages of the Indian matrimonial app ‘Vivaah,’ which offers a free registration process for users. This app is designed to help individuals find a suitable life partner for marriage. To get started, users simply need to provide basic information such as their name, contact number, verified email address, job details, photos, and preferences for their ideal partner. While the app is free to use, certain premium features can be accessed by paying a small fee. Vivaah makes it easy for users to connect with potential matches, ensuring a smooth and hassle-free experience in the search for a lifelong companion.",
+      "playstoreLink": "https://play.google.com/store/apps/developer?id=Vivaah.Com&hl=en_IN",
+
+      "webLink": "https://www.vivaah.com/"
+    },
+    {
+      "key": "matrimony",
+      "title": "WayToNikah",
+      "icon": "/assets/portfolioImages/nikha-logo.webp",
+      "largeImage": "/assets/portfolioImages/nikha-image.webp",
+      "image": "/assets/portfolioImages/nikha-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "The app ‘Waytonikah’ is an ideal choice for anyone searching for a life partner within the Muslim community. Recognized as one of the world’s most trusted and successful Muslim matrimonial platforms, it connects millions of Muslim individuals seeking their perfect match. Every user’s profile is carefully verified during registration, ensuring a safe and reliable experience. This feature makes Waytonikah a secure and user-friendly platform for those looking to find their soulmate. Whether you’re starting your search or ready to settle down, Waytonikah offers a seamless and trustworthy way to connect with like-minded individuals.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.appzoc.muslim.matrimony.waytonikah&hl=en_IN",
+      "appleLink": "https://apps.apple.com/in/app/way-to-nikah-muslim-matrimony/id1071658349",
+      "webLink": "https://www.waytonikah.com/"
+    },
+    {
+      "key": "classified",
+      "title": "Adeex",
+      "icon": "/assets/portfolioImages/adeex-logo.webp",
+      "largeImage": "/assets/portfolioImages/adeex-image.webp",
+      "image": "/assets/portfolioImages/adeex-image.webp",
+      "gradient": " 180deg, #06304C 0%, #0077C7 100%",
+      "text": "#ffffff",
+      "description": "Adeex is a well-known free classified website where users can post local ads across various categories like real estate, vehicles, jobs, vacations, community events, rental properties, and buy/sell items. Since its launch in October 2005, Adeex has been helping buyers and sellers grow their small businesses and reach their goals. Users can easily search for a wide range of products by selecting their preferred location. It’s a simple, convenient, and cost-effective way to promote services and expand businesses globally without any upfront investment.",
+
+      "webLink": "https://www.adeexaustralia.com/"
+    },
+    {
+      "key": "on_demand",
+      "title": "SkyMD",
+      "icon": "/assets/portfolioImages/skymd-logo.webp",
+      "largeImage": "/assets/portfolioImages/skymd-image.webp",
+      "image": "/assets/portfolioImages/skymd-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "SkyMD is a convenient telehealth app that allows users to consult doctors online without needing a prior appointment. This platform specializes in dermatology, offering access to a team of expert dermatologists who provide consultations across all 50 U.S. states. With SkyMD, you can connect with a dermatologist anytime, anywhere, and securely upload important medical documents directly through the app. It’s a hassle-free way to get professional medical advice and care from the comfort of your home.",
+
+      "appleLink": "https://apps.apple.com/in/app/skymd-24-7-telehealth/id963855994",
+      "webLink": "https://www.skymd.com/"
+    },
+    {
+      "key": "matrimony",
+      "title": "M4Marry",
+      "icon": "/assets/portfolioImages/m4marry-logo.webp",
+      "largeImage": "/assets/portfolioImages/m4marry-image.webp",
+      "image": "/assets/portfolioImages/m4marry-image.webp",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+
+      "description": "Simplify your search for the perfect life partner with the popular matrimonial app ‘M4Marry.’ Widely used in states like Andhra Pradesh, Kerala, Tamil Nadu, Telangana, and Karnataka, this app is known for its user-friendly design and seamless experience. It allows users to register quickly and effortlessly find matches based on their preferences. One of its unique features, ‘Surprise Me,’ lets you discover potential matches simply by shaking your phone. Additionally, the app provides personalized partner recommendations tailored to your choices, making it easier to connect with someone who truly aligns with your expectations. M4Marry ensures a smooth and enjoyable journey in your quest for a lifelong partner.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.manoramaonline.m4marry",
+      "appleLink": "https://apps.apple.com/us/app/m4marry-matrimony-app/id742022662?ls=1",
+      "webLink": "https://www.m4marry.com/"
+    },
+    {
+      "key": "jobportal",
+      "title": "GrabJobs",
+      "icon": "/assets/portfolioImages/grabjob-logo.webp",
+      "largeImage": "/assets/portfolioImages/grabjob-image.webp",
+      "image": "/assets/portfolioImages/grabjob-image.webp",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+
+      "description": "No matter the industry or job type, you can find it on the Grab Jobs app. Users can search for internships and job opportunities by filtering their preferences, such as location, job type, salary, and more. With just a few clicks, applicants can easily find the right job and start earning. If you’re looking for work, simply download the app, create your profile, apply your desired filters, and get matched with suitable job openings. Grab Jobs makes finding your next opportunity quick and hassle-free!",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.grabjobs",
+      "appleLink": "https://apps.apple.com/nl/app/vacature-zoeken-grabjobs/id1499639779/",
+      "webLink": "https://grabjobs.nl/"
+    },
+    {
+      "key": "salon",
+      "title": "Treatwell",
+      "icon": "/assets/portfolioImages/treatwell-logo.webp",
+      "largeImage": "/assets/portfolioImages/treatwell-image.webp",
+      "image": "/assets/portfolioImages/treatwell-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "Looking for top-quality beauty and salon services at your fingertips? Try the highly popular app Treatwell. This app makes it easy to book beauty and hair salon services online, all within your local area. It recommends the best services based on user reviews and feedback, ensuring you get the most trusted options. With 24/7 accessibility, Treatwell offers quick and hassle-free bookings. You can also choose from a variety of venues, helping you find the perfect salon for services like waxing, haircuts, nail care, and much more. Treatwell brings convenience and quality together, making it your go-to app for all beauty needs.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.wahanda.marketplace&hl=en_IN",
+      "appleLink": "https://apps.apple.com/lt/app/treatwell-beauty-bookings/id814443140",
+      "webLink": "https://www.treatwell.com/"
+    },
+    {
+      "key": "salon",
+      "title": "Salonatcom",
+      "icon": "/assets/portfolioImages/salonatcom-logo.webp",
+      "largeImage": "/assets/portfolioImages/salonatcom-image.webp",
+      "image": "/assets/portfolioImages/salonatcom-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "Book your salon appointments, spa treatments, or grooming services with just a few taps on your phone using the Salonatcom app. This platform offers a wide range of grooming and wellness services you’ve been looking for. It serves as a one-stop solution for finding nearby spas, salons, and wellness centers instantly. The app allows users to schedule appointments based on their preferred timings, ensuring they align with the opening and closing hours of the salons. With Salonatcom, managing your beauty and wellness needs has never been easier or more convenient. Enjoy hassle-free bookings and discover the best services near you!",
+      "playstoreLink": "https://apkpure.com/salonatcom-salon-booking-app/com.salonatcom.user",
+      "appleLink": "https://apps.apple.com/qa/app/salonat/id1614721356",
+      "webLink": "https://www.new-aeon.com/en/ClientSelected/Salonatcom"
+    },
+    {
+      "key": "salon",
+      "title": "MyCuts",
+      "icon": "/assets/portfolioImages/mycut-logo.webp",
+      "largeImage": "/assets/portfolioImages/mycut-image.webp",
+      "image": "/assets/portfolioImages/mycut-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Struggling to handle multiple tasks at your salon all by yourself? Discover a one-stop solution that simplifies your salon operations, allowing you to focus entirely on your clients. With advanced salon management software, you can efficiently manage your salon business using modern features tailored to meet your specific needs. From booking appointments and storing customer details to managing inventory, this software streamlines every aspect of your salon. It’s designed to make your work easier, faster, and more organized, so you can provide the best experience to your clients while running a smooth and successful salon business.",
+      "playstoreLink": "https://apps.apple.com/us/app/mycuts-business-booking-app/id1071175991",
+      "appleLink": "https://play.google.com/store/apps/details?id=com.mycutsapp",
+      "webLink": "https://www.mycutsapp.com/"
+    },
+    {
+      "key": "classified",
+      "title": "Adpost",
+      "icon": "/assets/portfolioImages/adpost-logo.webp",
+      "largeImage": "/assets/portfolioImages/adpost-image.webp",
+      "image": "/assets/portfolioImages/adpost-image.webp",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+
+      "description": "Adpost is a versatile classified platform offering a wide variety of services, including buying and selling vehicles, pets, offices, homes, job postings, and much more. Whether you're looking for unique home interior designs or specific products, Adpost’s extensive library has something for everyone. This platform also opens doors to countless business opportunities, helping you discover products and services that meet your needs. With Adpost, finding what you want or growing your business has never been easier!",
+
+      "webLink": "https://www.adpost.com/"
+    },
+    {
+      "key": "ondemand",
+      "title": " Stitcher",
+      "icon": "/assets/portfolioImages/stitcher-logo.webp",
+      "largeImage": "/assets/portfolioImages/stitcher-image.webp",
+      "image": "/assets/portfolioImages/stitcher-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Stitcher is a podcast platform designed to deliver live and on-demand podcasts to listeners. It allows users to tune into radio shows and podcasts from a variety of channels, accessible across multiple devices. Whether you're using your phone, smart speaker, or car system, Stitcher ensures you can enjoy your favorite podcasts anytime, anywhere. Say goodbye to boring commutes and never miss an episode of the content you love with Stitcher!",
+
+      "webLink": "https://www.stitcher.co.in/"
+    },
+    {
+      "key": "jobportal",
+      "title": "Kobeyo",
+      "icon": "/assets/portfolioImages/jobportal-logo.webp",
+      "largeImage": "/assets/portfolioImages/jobportal.webp",
+      "image": "/assets/portfolioImages/jobportal.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Kobeyo is a user-friendly app designed to connect employers with highly qualified candidates and help job seekers find the perfect job based on their preferences. Simply download the app, enter your requirements—whether you're an employer or a job seeker—and Kobeyo will provide tailored matches. If the suggestions meet your expectations, you can proceed; if not, you can explore other options. The app allows job seekers to search for opportunities across all types of organizations, making it a versatile tool for both hiring and job hunting. With Kobeyo, finding the right fit has never been easier!",
+      "playstoreLink": "https://apkpure.net/kobeyo-greater-la-area-jobs/com.kobeyo.employee",
+      "appleLink": "https://apps.apple.com/us/app/kobeyo-greater-la-area-jobs/id1434837880",
+      "webLink": "https://www.kobeyo.com/"
+    },
+    {
+      "key": "homeservice",
+
+      "title": "TIDY ",
+      "icon": "/assets/portfolioImages/tidy-logo.webp",
+      "largeImage": "/assets/portfolioImages/tidy-image.webp",
+
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "With the TIDY app, you can book highly-rated, background-checked cleaners known for their friendly and professional service. Schedule cleaning appointments at your convenience, with options for both last-minute and next-day bookings. The app offers a variety of services, including home and office cleaning, Airbnb and rental cleaning, as well as party assistance and cleanup. Easy to use, TIDY also creates job opportunities for cleaning professionals, making it a convenient and reliable choice for both users and service providers.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.tidyapp",
+      "appleLink": "https://apps.apple.com/ca/app/cleanster-book-a-cleaner-now/id1468308350",
+      "webLink": "https://www.tidy.com/"
+    },
+    {
+      "key": "fitness",
+
+      "title": "Nature Made",
+      "icon": "/assets/portfolioImages/nature-made-logo.webp",
+      "largeImage": "/assets/portfolioImages/nature-made-image.webp",
+
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "Nature Made is a trusted healthcare brand that makes healthy living enjoyable and accessible. They offer a wide range of high-quality products and supplements, including vitamins, omega-3s, fish oil capsules, and more, designed to support a fit and healthy lifestyle. With stores spread across multiple continents, Nature Made is committed to helping people embrace wellness and make healthier choices. Their goal is to inspire and empower users to incorporate good habits into their daily lives, making it easier to achieve long-term health and well-being.",
+
+      "webLink": "https://www.naturemade.com/"
+    },
+    {
+      "key": "e-wallet",
+      "title": "STICPAY E-Wallet",
+      "icon": "/assets/portfolioImages/sticpay-logo.webp",
+      "largeImage": "/assets/portfolioImages/sticpay-image.webp",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+
+      "description": "Sticpay is a global digital wallet that simplifies sending and receiving money quickly and securely. It supports online money transfers and even allows users to exchange cryptocurrencies. Signing up on the app is free, making it accessible to everyone. Known for its affordability, Sticpay enables low-cost global transfers, supports 29 currencies, and is available in 19 languages. Used in over 190 countries, the app ensures instant and secure transactions with just a 1% fee, making it a reliable choice for international money transfers.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.sticpay.app.sticpay",
+      "appleLink": "https://apps.apple.com/us/app/sticpay/id1274956968?mt=8",
+      "webLink": "https://sticpay.com/"
+    },
+    {
+      "key": "videostreaming",
+      "title": "ManyCam",
+      "icon": "/assets/portfolioImages/manycam-logo.webp",
+      "largeImage": "/assets/portfolioImages/manycam-image.webp",
+      "image": "/assets/portfolioImages/manycam-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "ManyCam is a versatile video streaming and switcher app compatible with both iOS and Android devices. It allows users to watch live or directly streamed content right from their mobile phones. With ManyCam, you can connect multiple devices or phones to a single account, even from different locations, all at the same time. This easy-to-use, one-click streaming app also lets you seamlessly access your favorite social media platforms, making it a convenient tool for streaming and sharing content.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.visicommedia.manycam",
+      "appleLink": "https://apps.apple.com/us/app/manycam-easy-live-streaming/id1112694921?mt=8",
+      "webLink": "https://manycam.com/"
+    },
+    {
+      "key": "socialmedia",
+      "title": "RingCentral",
+      "icon": "/assets/portfolioImages/ringcentral-logo.webp",
+      "largeImage": "/assets/portfolioImages/ringcentral-image.webp",
+      "image": "/assets/portfolioImages/ringcentral-image.webp",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+
+      "description": "RingCentral is a versatile app designed for messaging, audio calls, and video calls, making it a popular choice for both businesses and individuals. It helps users manage various tasks efficiently, no matter the device they use. With RingCentral, businesses can stay connected and productive through its wide range of features.Users can sign up for a free account to access all communication tools, including smart video meetings and team messaging. The app also offers task management, file sharing, a shared calendar, and screen sharing, making teamwork smoother and more organized. Whether you're hosting a video conference or sharing important documents, RingCentral simplifies communication and collaboration for everyone.Its user-friendly design and powerful features make it a go-to solution for modern communication needs.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.glip.mobile",
+      "appleLink": "https://apps.apple.com/us/app/ringcentral/id715886894",
+      "webLink": "https://www.ringcentral.com/"
+    },
+    {
+      "key": "socialmedia",
+      "title": "World link",
+      "icon": "/assets/portfolioImages/worldlink-logo.webp",
+      "largeImage": "/assets/portfolioImages/worldlink-image.webp",
+      "image": "/assets/portfolioImages/worldlink-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+      "description": "World Link is a one-of-a-kind social networking platform that lets you chat in real-time, meet new friends, and connect with people near your location. It offers a private way to view profiles and create a wishlist of people you’d like to connect with. Whether you’re looking to expand your social circle or find like-minded individuals, World Link makes it easy to build meaningful connections in a simple and secure way. Perfect for those who want to explore new friendships and stay connected with others nearby!",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=social.semidotinfo.network&hl=en_US&gl=US"
+    },
+    {
+      "key": "jobportal",
+      "title": "Workyard",
+      "icon": "/assets/portfolioImages/workyard-logo.webp",
+      "largeImage": "/assets/portfolioImages/workyard-image.webp",
+      "image": "/assets/portfolioImages/workyard-image.webp",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+
+      "description": "The Workyard app is designed to help businesses, especially in Texas and California, by simplifying hiring and job management. It’s a trusted tool used by leading contractors to find skilled workers like plumbers, carpenters, electricians, and handymen, offering them guaranteed daily pay and benefits.Workyard makes it easy for professionals to find jobs across California while helping business owners save time by managing teams and tasks efficiently. With this app, contractors can focus more on growing their business while ensuring their workforce is well-organized and productive. It’s the perfect solution for businesses looking to streamline operations and connect with reliable workers.",
+
+      "webLink": "https://www.workyard.com/"
+    },
+    {
+      "key": "elearning",
+      "title": "Alison",
+
+      "description": "The demand for eLearning apps is growing rapidly, especially those that offer free online videos and provide completion certificates to validate a user’s course participation. Alison: Free Online Courses with Certificates is an app built on this exact idea. It allows users to access a wide range of free courses and earn certificates upon completion, proving their skills and knowledge. This makes Alison a popular choice for learners looking to enhance their expertise and showcase their achievements in a simple and accessible way.",
+      "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+      "icon": "/assets/portfolioImages/alison-logo.webp",
+      "largeImage": "/assets/portfolioImages/alison-image.webp",
+      "playstoreLink": " https://play.google.com/store/apps/details?id=com.alison.mobile.flutter&hl=en_IN&gl=US",
+
+      "webLink": "https://alison.com/"
+    },
+    {
+      "key": "ecommerce",
+      "title": "Santa Cruz Organic",
+      "icon": "/assets/portfolioImages/santa-cazy-logo.webp",
+      "largeImage": "/assets/portfolioImages/santa-cazy-image.webp",
+      "image": "/assets/portfolioImages/santa-cazy-image.webp",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+
+      "description": "Organic food has become a popular trend, especially for people focused on living a healthy lifestyle. Santa Cruz Organic is leading the way by bringing organic food straight to your doorstep. They offer a wide variety of organic products across different categories, allowing customers to choose their favorite foods and desserts with ease. Additionally, Santa Cruz Organic provides recipes for those who want to prepare healthy meals at home. Whether you’re looking to order ready-made organic items or learn how to cook nutritious dishes, Santa Cruz Organic makes it simple and convenient to embrace a healthier way of living.",
+
+      "webLink": "https://santacruzorganic.com/"
+    },
+    {
+      "key": "elearning",
+      "title": "LearnEx Gratia",
+
+      "description": "LearnEx Gratia is a leading private college in South Africa, recognized for its commitment to delivering certified education and professional training to individuals and businesses. The institution offers a wide range of courses, including Business Management, Accounting, Bookkeeping, IT Programs, and other essential workplace skills. LearnEx Gratia is dedicated to fostering personal development and supporting industrial growth within the South African workforce. By providing high-quality training and education, the college plays a key role in empowering individuals and organizations to achieve their goals and succeed in their respective fields.",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "icon": "/assets/portfolioImages/learnex-logo.webp",
+      "largeImage": "/assets/portfolioImages/learnex-image.webp",
+
+      "webLink": "https://learnex.co.za/"
+    },
+    {
+      "key": "ondemand",
+      "title": "Loyverse POS",
+
+      "description": "With over 50,000 downloads, Loyverse POS stands out as one of the most popular free point-of-sale software options available online. Ideal for a variety of retail businesses, including restaurants, cafes, bakeries, grocery stores, and salons, Loyverse POS helps streamline operations and boost sales. It’s a powerful tool for managing employees and improving overall business efficiency, making it a top choice for small and medium-sized businesses aiming to grow their revenue and simplify their day-to-day tasks.",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+      "icon": "/assets/portfolioImages/loverse-logo.webp",
+      "largeImage": "/assets/portfolioImages/loverse-image.webp",
+      "playstoreLink": " https://play.google.com/store/apps/details?id=com.loyverse.sale&hl=en_IN&gl=US",
+      "appleLink": "https://apps.apple.com/us/app/loyverse-pos-point-of-sale/id1070865387",
+      "webLink": "https://loyverse.com/"
+    },
+    {
+      "key": "ondemand",
+      "title": "SmartCafe Professional POS",
+      "icon": "/assets/portfolioImages/smartcafe-logo.webp",
+      "largeImage": "/assets/portfolioImages/smartcafe-image.webp",
+      "image": "/assets/portfolioImages/smartcafe-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "SmartCafe is a well-known POS software designed to help cafes manage their operations effortlessly. With its user-friendly and straightforward interface, this software is simple to navigate, making it a practical choice for busy cafe owners. SmartCafe is built to save time and streamline tasks, ensuring smooth and efficient day-to-day operations. Whether it’s handling orders, managing inventory, or tracking sales, SmartCafe is a reliable tool that makes running a cafe easier and more organized.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=de.blueimage.smartcafe_professional&hl=en_IN&gl=US",
+
+      "webLink": "https://www.bistro-software.de/"
+    },
+    {
+      "key": "ecommerce",
+      "title": "Speed Shopper",
+      "icon": "/assets/portfolioImages/speed-shopers-logo.webp",
+      "largeImage": "/assets/portfolioImages/speed-shopers-image.webp",
+      "image": "/assets/portfolioImages/speed-shopers-image.webp",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "description": "Speed Shopper is a well-known grocery delivery app that makes shopping easy and convenient. It shows the aisle locations for top retailers such as Walmart, Target, Publix, Food Lion, Kroger, H-E-B, Harris Teeter, Wegmans, and many others. If your preferred store isn’t listed, no worries! You can simply add the aisle details yourself and start shopping right away. Speed Shopper is designed to save you time and simplify your grocery trips, whether you’re shopping at a major retailer or a local store.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=c.offerak.speedshopper&hl=en_IN&gl=US",
+      "appleLink": "https://apps.apple.com/us/app/speed-shopping-list/id1434065555",
+      "webLink": "https://speedshopperlist.com/"
+    },
+    {
+      "key": "fitness",
+      "title": "Lifesum",
+      "icon": "/assets/portfolioImages/lifesum-logo.webp",
+      "largeImage": "/assets/portfolioImages/lifesum-image.webp",
+      "image": "/assets/portfolioImages/lifesum-image.webp",
+      "gradient": "154.7deg, rgba(255, 12, 152, 0.33) 4.24%, rgba(190, 5, 126, 0.33) 86.93%",
+
+      "description": "Lifesum is a well-known health and fitness app from Sweden, designed to help users track and manage their calorie intake. The app offers a range of features, including personalized meal plans, healthy recipe suggestions, and more. Lifesum also includes a calorie and nutrition calculator, making it a great tool for people following specific diets like keto, fasting, or sugar-free lifestyles. Whether you’re looking to improve your eating habits or achieve specific health goals, Lifesum provides the tools and guidance to support your journey in a simple and effective way.",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.sillens.shapeupclub&hl=en_IN&gl=US",
+      "appleLink": "https://apps.apple.com/in/app/lifesum-food-calorie-tracker/id286906691",
+      "webLink": "https://lifesum.com/"
+    },
+    {
+      "key": "fitness",
+      "title": "Healthily",
+      "description": "Healthily stands out from other health and fitness apps with its unique approach to wellness. While it includes common features like a calorie counter and fitness tracker, it goes beyond by acting as a self-care journal. Users can log their daily activities, track sleep patterns, receive fitness tips, and monitor their overall well-being. Healthily is designed to help you take a holistic approach to your health, offering tools and insights to improve both physical and mental wellness. Whether you’re focusing on fitness, sleep, or self-care, Healthily provides a comprehensive platform to support your journey toward a healthier lifestyle.",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "icon": "/assets/portfolioImages/healthily-logo.webp",
+      "largeImage": "/assets/portfolioImages/healthily-image.webp",
+      "playstoreLink": " https://play.google.com/store/apps/details?id=md.your&hl=en_IN&gl=US",
+      "appleLink": "https://apps.apple.com/us/app/health-tracker-healthily/id1491316446",
+      "webLink": "https://www.livehealthily.com/"
+    },
+    {
+      "key": "sports",
+      "title": "RealFevr - Fantasy Sports 2021",
+      "description": "RealFevr is a top-rated sports fantasy app that has won the hearts of football and soccer fans worldwide. Known for its engaging graphics and user-friendly interface, the app keeps improving to offer the best experience. Users can build their own teams and compete in various championships, making it both fun and competitive. RealFevr also provides multiple game modes, allowing players to pick the one that suits their style and preferences. Whether you're a casual fan or a serious gamer, RealFevr offers an exciting platform to showcase your skills and enjoy the thrill of fantasy sports.",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "icon": "/assets/portfolioImages/sports-logo.webp",
+      "largeImage": "/assets/portfolioImages/sports-image.webp",
+
+      "appleLink": "https://apps.apple.com/us/app/realfevr-fantasy-sports/id1111611723",
+      "webLink": "https://medium.com/the-call-up/realfevrs-africa-fantasy-2021-is-now-open-fda89aaeb0a2"
+    },
+    {
+      "key": "sports",
+      "title": "Dynasty Owner",
+      "description": "Dynasty Owner brings a fresh and unique twist to fantasy football. Unlike traditional apps, it uses real NFL player contracts to determine salaries, adding an exciting layer of strategy for players. Designed specifically for dedicated football fans, this app allows users to enjoy daily games and participate in various championship leagues that run throughout the season. Dynasty Owner is perfect for those who want a more realistic and engaging fantasy football experience, combining the thrill of the game with the challenge of managing real-world player contracts.",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+      "icon": "/assets/portfolioImages/Dynasty-logo.webp",
+      "largeImage": "/assets/portfolioImages/Dynasty-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.crg.dynastyowner&hl=en&gl=US",
+      "appleLink": "https://apps.apple.com/us/app/dynasty-owner/id1505906009"
+    },
+    {
+      "key": "sports",
+      "title": "FPL - Fantasy Football for Premier League",
+      "description": "Football is one of the most loved sports globally, and FPL has developed a fantasy football app tailored for its passionate fans. This app lets users build their own teams, play daily games, and join frequent championship leagues. With FPL, players can dive into the excitement of fantasy football, creating their dream squad and competing against others. It’s a fun and engaging way for football enthusiasts to connect with the sport they love while enjoying the thrill of strategy and competition.",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+      "icon": "/assets/portfolioImages/football-logo.webp",
+      "largeImage": "/assets/portfolioImages/football-image.webp",
+      "playstoreLink": "https://play.google.com/store/apps/details?id=com.codexen.fantasyfootball&hl=en_IN&gl=US"
+    },
+    {
+      "key": "sports",
+      "title": "CrickTrick",
+      "description": "CrickTrick is a well-known fantasy cricket app that brings the excitement of cricket to life for its users. It allows fans to create their own teams and participate in various leagues and tournaments. Perfect for cricket lovers, CrickTrick offers multiple game modes, giving players the flexibility to choose how they want to play based on their preferences. Whether you're a casual fan or a die-hard cricket enthusiast, CrickTrick provides a fun and engaging platform to showcase your skills and enjoy the thrill of fantasy cricket.",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+      "icon": "/assets/portfolioImages/circket-logo.webp",
+      "largeImage": "/assets/portfolioImages/circket-image.webp",
+
+      "webLink": "https://cricktrick.com/"
+    },
+
+    {
+      "key": "realestate",
+      "title": "IRECOM",
+      "description": "IRECOM Real Estate is a trusted name in the property industry, offering expert services for buying, selling, and renting residential and commercial properties. We provide personalized solutions, including property sales, leasing, management, and consultation, ensuring a seamless experience for our clients. With years of experience, we offer in-depth market knowledge and a commitment to trust and integrity. Whether you're a first-time buyer or an investor, IRECOM Real Estate is here to guide you through every step of your real estate journey. Contact us today to explore your property options!",
+      "gradient": "140.45deg, rgba(241, 190, 0, 0.44) -10.21%, rgba(0, 104, 226, 0.44) 90.25%",
+      "icon": "/assets/portfolioImages/irecom-logo.webp",
+      "largeImage": "/assets/portfolioImages/irecom-image.webp",
+
+      "webLink": "https://cricktrick.com/"
+    },
+    {
+      "key": "realestate",
+      "title": "The Italian Property Company ",
+      "description": "The Italian Property specializes in offering a wide range of residential and commercial properties across Italy, from charming villas to modern apartments. We provide services for property sales, rentals, and investment opportunities, ensuring a seamless experience for all our clients. With in-depth local knowledge and expert advice, we help you find the perfect property in Italy, whether for personal use or investment. Our team offers tailored solutions to meet your unique needs, making your property journey smooth and stress-free. Contact The Italian Property today to find your dream home in Italy!",
+     "gradient": "154.63deg, #FAB514 -45.93%, #FFFFFF 124.12%",
+      "icon": "/assets/portfolioImages/italian-logo.webp",
+      "largeImage": "/assets/portfolioImages/italian-image.webp",
+
+      "webLink": "https://www.theitalianproperty.com/en/"
+    },
+    {
+      "key": "realestate",
+      "title": " MADEINITALY RE ",
+      "description": "MADEINITALY showcases the finest Italian craftsmanship, combining tradition with modern design. Our products are made with premium materials, ensuring quality and elegance. From fashion to home décor, each piece reflects authentic Italian artistry. Designed with passion and attention to detail, our collections embody timeless style. We celebrate Italy’s rich heritage while embracing innovation. Every product tells a story of dedication and excellence. Experience true Italian luxury with MADEINITALY – where quality meets tradition.",
+      "gradient": "154.7deg, rgba(255, 12, 152, 0.33) 4.24%, rgba(190, 5, 126, 0.33) 86.93%",
+      "icon": "/assets/portfolioImages/madein-logo.webp",
+      "largeImage": "/assets/portfolioImages/madein-image.webp",
+
+      "webLink": "https://www.madeinitalyre.com/"
+    },
+    {
+      "key": "realestate",
+      "title": " GAJ BY GAJ COLONIZERS ",
+      "description": "GAJ by GAJ Colonizers is a trusted real estate developer known for premium residential and commercial projects. We focus on modern architecture, prime locations, and top-notch amenities to offer a perfect blend of luxury and convenience. Our projects are designed with innovation, sustainability, and customer satisfaction in mind. Whether you're looking for a dream home or a profitable investment, we ensure excellence in every square foot. With well-planned infrastructure and high-quality construction, we create spaces that enhance lifestyles. Our commitment to quality and long-term value makes us a preferred choice in real estate. Experience comfort, luxury, and affordability with GAJ by GAJ Colonizers.",
+      "gradient": "180deg, #94D5B9 0%, #FBC374 100%",
+      "icon": "/assets/portfolioImages/gbg-logo.webp",
+      "largeImage": "/assets/portfolioImages/gbg-image.webp",
+
+      "webLink": "https://gbgcolonizers.com/"
+    },
+    {
+      "key": "realestate",
+      "title": " GAJ BY GAJ COLONIZERS ",
+      "description": "Gokul Kripa Sales & Marketing Private Limited is a prestigious real estate company known for high-quality residential and commercial projects. We focus on modern infrastructure, prime locations, and world-class amenities to create luxurious and comfortable spaces. With a commitment to excellence, innovation, and sustainability, we ensure long-term value for our clients. Our reputation for trust, transparency, and professionalism makes us a preferred choice in the real estate sector. Whether you're looking for a dream home or a profitable investment, we deliver the best opportunities. Experience quality, comfort, and growth with Gokul Kripa Sales & Marketing Private Limited.",
+      "gradient": "152.62deg, rgba(222, 37, 102, 0.44) -18.93%, rgba(105, 75, 219, 0.44) 129.45%",
+
+      "icon": "/assets/portfolioImages/gokul-logo.webp",
+      "largeImage": "/assets/portfolioImages/gokul-image.webp",
+
+      "webLink": "https://gokulkripa.com/"
+    }
+  ]
+}

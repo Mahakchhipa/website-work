@@ -1,0 +1,8 @@
+.scrollbar-hide {
+  scrollbar-width: thin; /* For Firefox */
+  scrollbar-color: transparent transparent; /* For Firefox */
+}
+.scrollbar-hide::-webkit-scrollbar {
+  width: 0; /* For Chrome, Safari, and Opera */
+  height: 0; /* For Chrome, Safari, and Opera */
+}
